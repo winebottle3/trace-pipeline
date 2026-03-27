@@ -20,7 +20,7 @@ This pipeline was developed to centralize and standardize the analysis workflow,
 
 .
 
-├── trace_ht_pipeline_v1.R # Main pipeline script
+├── run_trace.R # Main pipeline script
 
 ├── README.md # Project documentation
 
